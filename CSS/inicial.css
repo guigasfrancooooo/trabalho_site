@@ -1,0 +1,25 @@
+.nav-link{
+    color: #000;
+    
+}
+
+#login{
+
+   margin-right: 10px;
+}
+
+.navbar-expand-lg{
+
+height: 20%;
+
+}
+
+#carouselExampleControls{
+
+height: 50%;
+width: 60%;
+margin-left: 20%;
+margin-top: 1%;
+
+
+}
