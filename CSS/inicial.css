@@ -1,16 +1,12 @@
 .nav-link{
-    color: #000;
+
+color: #000;
     
 }
 
 #login{
 
-   margin-right: 10px;
-}
-
-.navbar-expand-lg{
-
-height: 20%;
+margin-right: 10px;
 
 }
 
@@ -19,7 +15,29 @@ height: 20%;
 height: 50%;
 width: 60%;
 margin-left: 20%;
-margin-top: 1%;
+margin-top: 2%;
 
+}
+
+#rdp{
+
+background-color: #000;
+color: #ffff;
+height: 3cm;
+margin-top: 80px;
+    
+}
+
+.p{
+
+margin-left: 100px;
+margin-top: -10px;
+margin-block-end: 30px;
+
+}
+
+#p2{
+
+margin-block-end: 20px;
 
 }
