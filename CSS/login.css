@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 .menu-bar{
-    background-color:rgb(255, 255, 210);
+    background-color:whitesmoke;
 }
 .nav-link{
     font-size: 16px;
@@ -35,3 +35,7 @@
     margin-left: 20px;
 }
 
+#img{
+    height: 120px;
+    width: 120px;
+}

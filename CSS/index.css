@@ -1,10 +1,12 @@
+/* Navbar */
+
 *{
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
 }
 .menu-bar{
-    background-color:rgb(255, 255, 210);
+    background-color:whitesmoke;
 }
 .nav-link{
     font-size: 16px;
@@ -35,3 +37,11 @@
     margin-left: 20px;
 }
 
+/* Carrosel */
+
+#carouselExampleControls{
+    height: 40%;
+    width: 70%;
+    margin-top: 5px;
+    margin-left: 15%;
+}
