@@ -100,6 +100,7 @@
 .footer{
     padding: 40px 0;
     background-color: rgb(77, 76, 76);
+    margin-top: 300px;
 }
 .footer ul{
     margin-top: 0;
@@ -119,3 +120,4 @@
     display: inline-block;
     padding: 0 15px;
 }
+
